@@ -7,3 +7,5 @@
 3) [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 4) [Two Sum](https://leetcode.com/problems/two-sum/description/)
 5) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+6) [Remove Element](https://leetcode.com/problems/remove-element/)
+7) [Majority Element](https://leetcode.com/problems/majority-element/)
